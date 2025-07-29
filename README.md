@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Hayat%20Ahmedjara-9400d3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMkgydjE0aDIwdi02bS0xMCA0djJsMy0zIi8+PC9zdmc+&logoColor=white" alt="Hayat Ahmedjara">
   </h1>
   <p style="font-size: 1.3em; margin: 20px 0; font-style: italic;">
-    👋 Hi, I'm Hayat Ahmedjara, a software developer passionate about creating innovative solutions.
+👋 Hi, I'm Hayat Ahmedjara, a software developer with a deep passion for crafting innovative solutions in AI and robotics. I thrive on exploring cutting-edge technologies, building intelligent systems, and solving complex problems with creativity and precision. My love for coding is matched only by my enthusiasm for pushing the boundaries of automation and machine learning to shape a smarter future.    
   </p>
   <h2>Socials</h2>
   <p>
