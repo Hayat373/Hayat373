@@ -39,5 +39,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Hayat373&show_icons=true&theme=transparent&hide_border=true" alt="Hayat's GitHub Stats">
   </p>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayat373&layout=compact&theme=radical&hide=html,css)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayat373&layout=compact&theme=dracula&hide=html,css)
 </div>
