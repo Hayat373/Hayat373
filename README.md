@@ -108,7 +108,7 @@ Deep learning for **Dst Index prediction**
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hayat373&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hayat373&theme=tokyonight" />
   
   <br/>
 
