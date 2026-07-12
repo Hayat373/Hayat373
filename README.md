@@ -105,18 +105,29 @@ Deep learning for **Dst Index prediction**
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="left">
+
+  <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hayat373&theme=tokyonight" />
-  
+
   <br/>
 
+  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=Hayat373&theme=tokyonight&hide_border=true"/>
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayat373&layout=compact&theme=tokyonight&hide_border=true"/>
+  <!-- Languages (FIXED) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hayat373&theme=tokyonight" />
+
+  <br/>
+
+  <!-- Most Used Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hayat373&theme=tokyonight" />
+
 </p>
 
 ---
